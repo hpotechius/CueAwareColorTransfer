@@ -1,0 +1,6 @@
+numpy
+opencv-contrib-python
+matplotlib
+OpenImageIO
+Pillow
+scikit-learn
