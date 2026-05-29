@@ -53,7 +53,7 @@ Output folder naming:
 testdata/output/S1_V4_C3_A1_I4-S0_V4_C1_A2_I5-RABC
 ```
 
-If no cues are provided the suffix will still include the algorithm letter, e.g. `-RO` or `-R`/`-O` depending on the method.
+If no cues are provided the suffix will still include the algorithm letter, e.g. `-R` or `-O` depending on the method.
 
 ## Citation
 If you utilize this code in your research, kindly provide a citation:
