@@ -55,6 +55,26 @@ testdata/output/S1_V4_C3_A1_I4-S0_V4_C1_A2_I5-RABC
 
 If no cues are provided the suffix will still include the algorithm letter, e.g. `-R` or `-O` depending on the method.
 
+## Example
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e14071f6-0c49-4668-be1f-858301e241f3" width="800">
+  <br>
+  <em>Figure 1: Source and reference images with corresponding color distributions in RGB color space..</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/360f72f3-24e5-43bd-88ad-fbf0baf09817" width="800">
+  <br>
+  <em>Figure 2: Results from Reinhard's method with different scene cues enabled.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/712db8b0-21b8-4d62-b5aa-f20d6090c2a6" width="800">
+  <br>
+  <em>Figure 3: Results from the optimal transport method with different scene cues enabled.</em>
+</p>
+
 ## Citation
 If you utilize this code in your research, kindly provide a citation:
 ```
